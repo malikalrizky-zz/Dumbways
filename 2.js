@@ -27,3 +27,11 @@ var datalain = [
 
 sort_array(data);
 sort_array(datalain);
+
+/* [ [ 'e', 'f', 'g' ], [ 'a', 'b', 'c', 'd', 'e' ] ]
+[
+  [ 'e', 'f', 'g' ],
+  [ 'g', 'h', 'i', 'j' ],
+  [ 'a', 'b', 'c', 'd', 'e' ]
+]
+*/

@@ -44,6 +44,6 @@ const cekPassword = (password) => {
   }
 };
 
-cekUsername("Kamusiapa");
-cekEmail("kamusiapa@gmail.com");
-cekPassword("Kamusiapa2169");
+cekUsername("Kamusiapa"); // invalid
+cekEmail("kamusiapa@gmail.com"); // valid
+cekPassword("Kamusiapa2169"); // valid
